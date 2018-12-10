@@ -9,10 +9,10 @@ bit easier.
 How to contribute
 -----------------
 The preferred way to contribute to ebm is to fork the 
-[main repository](https://github.com/ucl-mig/ebm) on
+[main repository](https://github.com/ucl-pond/ebm) on
 GitHub:
 
-1. Fork the [project repository](https://github.com/ucl-mig/ebm):
+1. Fork the [project repository](https://github.com/ucl-pond/ebm):
    click on the 'Fork' button at the top right of the page. This creates
    a copy of the code under your account on the GitHub server.
 
