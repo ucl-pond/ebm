@@ -1,3 +1,12 @@
+**Deprecated.** <br/>
+Use KDE EBM instead: [ucl-pond:kde_ebm](https://github.com/ucl-pond/kde_ebm)
+
+<hr/>
+
+<hr/>
+
+<hr/>
+
 Event-Based Model
 =================
 
